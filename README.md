@@ -4,7 +4,7 @@ A repository which contains blackhat hacking links
 
 ## instalation
 
-`git clone https://github.com/Anon4You/Blackhat.github`
+`git clone https://github.com/Anon4You/Blackhat`
 
 `cd Blackhat`
 
